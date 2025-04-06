@@ -1,2 +1,5 @@
 @import "tailwindcss";
 
+/* .link-style {
+  @apply text-zinc-200 hover:text-zinc-800 transition-colors;
+} */
